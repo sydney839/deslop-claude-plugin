@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "deslop": {"type": "http", "url": "https://dslop.app/plugin/mcp"}
+  }
+}

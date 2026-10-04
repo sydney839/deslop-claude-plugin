@@ -1,0 +1,10 @@
+{
+  "name": "deslop",
+  "displayName": "DeSlop",
+  "version": "0.1.0",
+  "description": "Create and revise branded flyers and posters, adjust exact QR codes, and export reviewed PNG or PDF designs with your DeSlop account.",
+  "author": {"name": "DeSlop", "url": "https://dslop.app", "email": "support@dslop.app"},
+  "homepage": "https://dslop.app",
+  "license": "UNLICENSED",
+  "keywords": ["flyer", "poster", "design", "qr"]
+}
